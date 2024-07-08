@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+  ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)
 <!--
 **alowkii/alowkii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
