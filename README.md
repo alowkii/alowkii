@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=alowkii.alowkii"/>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins+Thin&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aalok+Pandit!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Manrope&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aalok+Pandit!;" />
 </h1>
 
 <h3 align="center">A passionate software developer in India</h3>
