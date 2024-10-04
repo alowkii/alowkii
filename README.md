@@ -15,7 +15,7 @@
 
 💬 Ask me about **Web Development, Node.js, Machine Learning... or anything [here](https://github.com/alowkii/alowkii/issues)**
 
-⚡ Fun fact **Alpha Wolves are just moms and dads**
+⚡ Fun fact **QR codes are just enhanced BarCodes**
 
  </div>
  
