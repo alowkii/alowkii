@@ -11,9 +11,9 @@
  
  🔭 I’m currently doing **Engineering**
  
- 🌱 I’m currently learning **React, Docker, Kotlin**
+ 🌱 I’m currently learning **React Route, Docker**
 
-💬 Ask me about **Web Development, Node.js, Machine Learning... or anything [here](https://github.com/alowkii/alowkii/issues)**
+💬 Ask me about **Web Development, Node.js, React, Machine Learning... or anything [here](https://github.com/alowkii/alowkii/issues)**
 
 ⚡ Fun fact **QR codes are just enhanced BarCodes**
 
