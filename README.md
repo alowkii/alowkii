@@ -11,7 +11,7 @@
  
  🔭 I’m currently doing **Engineering**
  
- 🌱 I’m currently learning **React Route, Docker**
+ 🌱 I’m currently learning **TypeScript, React Router v7**
 
 💬 Ask me about **Web Development, Node.js, React, Machine Learning... or anything [here](https://github.com/alowkii/alowkii/issues)**
 
