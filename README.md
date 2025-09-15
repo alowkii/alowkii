@@ -11,7 +11,7 @@
  
  🔭 I’m an AIML Engineer
  
- 🌱 I’m currently learning **TypeScript, React Router v7**
+ 🌱 I’m currently learning **Neo4J, AGI**
 
 💬 Ask me about **Web Development, Node.js, React, Machine Learning... or anything [here](https://github.com/alowkii/alowkii/issues)**
 
