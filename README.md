@@ -13,7 +13,7 @@
  
  🌱 I’m currently learning **Neo4J, AGI**
 
-💬 Ask me about **Web Development, Node.js, React, Machine Learning... or anything [here](https://github.com/alowkii/alowkii/issues)**
+💬 Ask me about **LLMs, AIML, Web Development, Node.js, React... or anything [here](https://github.com/alowkii/alowkii/issues)**
 
 ⚡ Fun fact **QR codes are just enhanced BarCodes**
 
