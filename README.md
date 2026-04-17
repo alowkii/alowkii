@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Manrope&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aalok+Pandit!;" />
 </h1>
 
-<h3 align="center">I get things done! ;)</h3>
+<h3 align="center">A math nerd more than an ML engineer xD</h3>
 
 <br/>
 
@@ -11,7 +11,7 @@
  
  🔭 I’m an AIML Engineer
  
- 🌱 I’m currently learning **Neo4J, AGI**
+ 🌱 I’m currently learning **Neo4J, AGI, Deep ML**
 
 💬 Ask me about **LLMs, AIML, Web Development, Node.js, React... or anything [here](https://github.com/alowkii/alowkii/issues)**
 
