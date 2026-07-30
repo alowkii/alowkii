@@ -9,9 +9,9 @@
 
 <div align="center">
  
- 🔭 I’m an AIML Engineer
+ 🔭 I’m an AIML Engineer and Full Stack Developer
  
- 🌱 I’m currently learning **Neo4J, AGI, Deep ML**
+ 🌱 I’m currently learning **Economics, EDA Systems**
 
 💬 Ask me about **LLMs, AIML, Web Development, Node.js, React... or anything [here](https://github.com/alowkii/alowkii/issues)**
 
