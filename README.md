@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Manrope&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aalok+Pandit!;" />
 </h1>
 
-<h3 align="center">A math nerd more than an ML engineer xD</h3>
+<h3 align="center">An AIML Engineer figuring out how to streamline stuffs :)</h3>
 
 <br/>
 
