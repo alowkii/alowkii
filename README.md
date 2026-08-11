@@ -26,8 +26,8 @@
   <a href="https://www.linkedin.com/in/alowkii/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://github.com/alowkii?tab=repositories" target="_blank">
-     <img src="https://img.shields.io/badge/Repository-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+  <a href="https://aalokpandit.netlify.app/" target="_blank">
+     <img src="https://img.shields.io/badge/Potfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </div>
 
