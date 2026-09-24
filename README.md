@@ -2,21 +2,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Manrope&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aalok+Pandit!;" />
 </h1>
 
-<h3 align="center">An AIML Engineer figuring out how to streamline stuffs :)</h3>
-
-<br/>
-
 <div align="center">
  
- 🔭 I’m an AI/ML Platform Engineer at [AdaptReady](https://adaptready.com), fine-tuning and serving small LLMs and building structured-output inference services. Heavily engaged in R&D, turning new small-model techniques into working systems
+ 🔭 I’m an AI/ML Platform Engineer at [AdaptReady](https://adaptready.com), fine-tuning and serving small LLMs and building structured-output inference services
  
  📌 Best work: [nia](https://github.com/alowkii/nia) · [RDLNN](https://github.com/alowkii/RDLNN-with-CNN-FE) · [OilTemperatureForecast](https://github.com/alowkii/OilTemperatureForecast)
 
  🛠️ Currently working on: [BRAINS](https://github.com/alowkii/BRAINS) (a panel of small critic models improving a small LLM's output) · a schema-constrained structured-output inference service (in development, private)
-
- 🌱 Currently learning: [Kev](https://github.com/jaredpalmer/kev) and building System One / decision models (fast, calibrated yes/no, choice and score answers from small fine-tuned LLMs)
-
-💬 Ask me about **LLMs, AIML, Web Development, Node.js, React... or anything [here](https://github.com/alowkii/alowkii/issues)**
 
  </div>
  
@@ -26,9 +18,6 @@
   </a>
   <a href="https://www.linkedin.com/in/alowkii/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://huggingface.co/alowkii" target="_blank">
-    <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
   </a>
   <a href="https://aalokpandit.netlify.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
@@ -40,7 +29,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,fastapi,docker,kubernetes,linux,bash,git,githubactions" />
+    <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,fastapi,docker,linux,bash,git,githubactions" />
     <img src="https://skillicons.dev/icons?i=typescript,javascript,nodejs,react,remix,express,mongodb,c,cpp" /><br>
 </div>
 
