@@ -1,9 +1,66 @@
-### Aalok Pandit
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Manrope&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aalok+Pandit!;" />
+</h1>
 
-AI/ML Platform Engineer at [AdaptReady](https://adaptready.com). I fine-tune and serve small LLMs (LoRA → GGUF → Ollama) and build structured-output inference services (constrained decoding behind OpenAI-compatible APIs).
+<h3 align="center">An AIML Engineer figuring out how to streamline stuffs :)</h3>
 
-- [nia](https://github.com/alowkii/nia): local, room-scale voice assistant (wake word → Whisper → Ollama → TTS)
-- [RDLNN-with-CNN-FE](https://github.com/alowkii/RDLNN-with-CNN-FE): image forgery detection with a REST API and batch mode
-- [OilTemperatureForecast](https://github.com/alowkii/OilTemperatureForecast): transformer oil temperature forecasting
+<br/>
 
-[paalok333@gmail.com](mailto:paalok333@gmail.com) · [LinkedIn](https://www.linkedin.com/in/alowkii/) · [Portfolio](https://aalokpandit.netlify.app/)
+<div align="center">
+ 
+ 🔭 I’m an AI/ML Platform Engineer at [AdaptReady](https://adaptready.com), fine-tuning and serving small LLMs and building structured-output inference services
+ 
+ 📌 Best work: [nia](https://github.com/alowkii/nia) · [RDLNN](https://github.com/alowkii/RDLNN-with-CNN-FE) · [OilTemperatureForecast](https://github.com/alowkii/OilTemperatureForecast)
+
+💬 Ask me about **LLMs, AIML, Web Development, Node.js, React... or anything [here](https://github.com/alowkii/alowkii/issues)**
+
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:paalok333@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/alowkii/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://aalokpandit.netlify.app/" target="_blank">
+     <img src="https://img.shields.io/badge/Potfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+  </a>
+</div>
+
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,git,photoshop,illustrator,blender,unity" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,mongodb,c,cpp,java,nextjs,docker,kubernetes" /><br>
+</div>
+
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/alowkii/alowkii/output/github-contribution-grid-snake-dark.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://streak-stats.demolab.com/?user=alowkii&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=alowkii&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alowkii&hide=Fortran&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
+
+<hr/>
+
+<br/>
