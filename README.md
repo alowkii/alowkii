@@ -12,7 +12,7 @@
  
  📌 Best work: [nia](https://github.com/alowkii/nia) · [RDLNN](https://github.com/alowkii/RDLNN-with-CNN-FE) · [OilTemperatureForecast](https://github.com/alowkii/OilTemperatureForecast)
 
- 🛠️ Currently working on: [BRAINS](https://github.com/alowkii/BRAINS) (a panel of small critic models improving a small LLM's output) · a schema-constrained structured-output inference service
+ 🛠️ Currently working on: [BRAINS](https://github.com/alowkii/BRAINS) (a panel of small critic models improving a small LLM's output) · a schema-constrained structured-output inference service (in development, private)
 
 💬 Ask me about **LLMs, AIML, Web Development, Node.js, React... or anything [here](https://github.com/alowkii/alowkii/issues)**
 
