@@ -14,6 +14,8 @@
 
  🛠️ Currently working on: [BRAINS](https://github.com/alowkii/BRAINS) (a panel of small critic models improving a small LLM's output) · a schema-constrained structured-output inference service (in development, private)
 
+ 🌱 Currently learning: [Kev](https://github.com/jaredpalmer/kev) and building Jev/Kev-style typed decision models (fast, calibrated yes/no, choice and score answers from small fine-tuned LLMs)
+
 💬 Ask me about **LLMs, AIML, Web Development, Node.js, React... or anything [here](https://github.com/alowkii/alowkii/issues)**
 
  </div>
@@ -24,6 +26,9 @@
   </a>
   <a href="https://www.linkedin.com/in/alowkii/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://huggingface.co/alowkii" target="_blank">
+    <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
   </a>
   <a href="https://aalokpandit.netlify.app/" target="_blank">
      <img src="https://img.shields.io/badge/Potfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
